@@ -15,7 +15,6 @@ Fullstack Developer (Node.js / Python)
 ### Backend
 - NestJS
 - FastAPI
-- Django
 - PostgreSQL
 - Redis
 - REST API
