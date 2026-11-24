@@ -1,67 +1,30 @@
-# Hi, I'm Valentin 👋
+# Valentin Bazhenov
 
-Fullstack Developer (Node.js / Python)
+Fullstack developer working with Go, TypeScript and PostgreSQL.
+Previously worked with NestJS, FastAPI and C++/QML.
 
-## About me
+## Current project
 
-- 🎓 Information Systems and Technologies graduate
-- 💻 Developing web applications with NestJS, FastAPI, Next.js and PostgreSQL
-- 🐳 Interested in DevOps, Docker, Kubernetes and high-availability systems
-- 🤖 Integrating Telegram Bots and external services
-- 🌱 Currently working on a commercial e-commerce platform
+**Flower Shop** — a commercial e-commerce platform.
 
-## Tech Stack
+Go backend, Next.js storefront, a separate React admin panel and a Telegram bot.
+Includes a bouquet builder, guest checkout, AI-assisted product matching
+and S3-compatible image storage.
 
-### Backend
-- NestJS
-- FastAPI
-- PostgreSQL
-- Redis
-- REST API
-- JWT
+**Stack:** Go, TypeScript, React, Next.js, PostgreSQL, Redis, Docker, Nginx.
 
-### Frontend
-- Next.js
-- React
-- TypeScript
-- TailwindCSS
-- FSD
+## Other projects
 
-### DevOps
-- Docker
-- Docker Compose
-- Docker Swarm
-- Kubernetes
-- Patroni
-- Nginx
-- Linux
+- [AuroraOS-EDM](https://github.com/Perniciess/AuroraOS-EDM) —
+  electronic document management with digital signatures for Aurora OS.
+  C++, QML, Python.
+- [NestJS / Next.js E-commerce](https://github.com/Perniciess/nestjs-nextjs-ecommerce) —
+  e-commerce project with deployment experiments using Docker Swarm,
+  Kubernetes and Patroni.
+- [IoT Dashboard](https://github.com/Perniciess/MobileApp_dashboard) —
+  React Native dashboard for ESP32 sensors using MQTT.
 
-## Featured Projects
+## Contact
 
-### AuroraOS-EDM
-Electronic Document Management System with Digital Signature support for Aurora OS.
-
-**Stack:** C++, QML, Python
-
-### Flower Shop
-Commercial fullstack e-commerce platform.
-
-**Stack:** FastAPI, Next.js, PostgreSQL, Redis, Telegram Bot
-
-### NestJS-NextJS-Ecommerce
-Research project for studying:
-- Docker Swarm
-- Kubernetes
-- Patroni
-- Fullstack deployment
-
-### MobileApp Dashboard
-IoT dashboard for ESP32 sensors.
-
-**Stack:** React Native, MQTT, ESP32
-
-## Contacts
-
-- Telegram: @exzenzia
-- Email: bajenovvalentin@yandex.ru
-- GitHub: github.com/Perniciess
+[Telegram](https://t.me/exzenzia) ·
+[Email](mailto:bajenovvalentin@yandex.ru)
